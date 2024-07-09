@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // Nhập điểm từ người dùng
+    let diemToan = parseFloat(prompt("Nhập điểm môn Toán:"));
+    let diemVan = parseFloat(prompt("nhap diem moi van"))
+    let diemAnh = parseFloat(prompt("nhap diem mon anh"))
+
+    // Tính điểm trung bình
+    let diemTrungBinh = (diemToan + diemVan + diemAnh) / 3;
+    alert("DIEM TRUNG BINH CUA CAC MON" +diemTrungBinh)
+
+    // XET HOC LUC DUA TREN DIEM TRung BInh
+    // Xét học lực dựa trên điểm trung bình
+    let hocLuc;
+     if (diemTrungBinh >= 8.0) {
+      alert("hoc luc gioi")
+    } else if (diemTrungBinh >= 6.5) {
+      alert("hoc luc kha")
+    } else if (diemTrungBinh >= 5.0) {
+        alert("hoc luc trung binh")
+    } else {
+        alert("hoc luc yeu") }
+
+</script>
+</body>
+</html>
