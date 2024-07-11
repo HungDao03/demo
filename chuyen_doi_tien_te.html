@@ -8,7 +8,7 @@
 <p>
 <table>
     <tr>
-        <th><label for="Amount">Amount</label></th>
+        <th><label for ="Amount">Amount</label></th>
         <th>From Currency</th>
         <th>To Currency</th>
         <th></th>
@@ -16,10 +16,27 @@
     <tr>
         <td><input type="text" id="Amount"></td>
         <td>
-            <select id="From">
+            <select id="From Currency">
                 <option value="VND">VND</option>
                 <option value="USD">USD</option>
             </select>
+        </td>
+        <td>
+            <select id="To Curency">
+                <option value="VND">VND</option>
+                <option  value="USD">USD</option>
+            </select>
+        </td>
+        <td><button onclick="(Chuyển)">Convert</button></td>
+    </tr>
+</table>
+
+<br>
+<p id="Result"></p>
+
+
+
+</tr>
 </table>
 </body>
 </html>
