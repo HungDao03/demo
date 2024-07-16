@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="result"></p>
+<script>
+    let doanhso = parseInt(prompt("nhap du lieu doanh so"))
+    let hoahong = parseInt(prompt("nhap du kieu hoa hong"))
+
+    function tinhhoahong(doanhso) {
+        let hoahong = 0;
+        if (doanhso > 100000000) {
+            hoahong = doanhso * 0.1;
+            // 10 % voi doanh so lon hon 100 tr
+        }
+        else if
+        (doanhso > 50000000)
+        {
+            hoahong = doanhso * 0.5;
+            // 5% voi doanh so lon hon 50tr
+        }
+        else if
+        (doanhso > 20000000)
+        {
+            hoahong = doanhso *  0.2;
+            // 2% voi doanh so lon hon 20tr
+        }
+        else
+        {
+            hoahong = doanhso * 0.1;
+            // 1& voi doanh so nho hon 20tr
+        }
+        return hoahong;
+    }
+
+    document.getElementById("result").textContent = "doanh so dat duoc la" + doanhso + " " + "hoa hong dat duoc la" + hoahong ;
+</script>
+</body>
+</html>

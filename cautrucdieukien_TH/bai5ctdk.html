@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3> BANG XEP HANG HOC SINH</h3>
+<p id="result"></p>
+<script>
+  let diembaikiemtra = parseInt(prompt("nhap du lieu nguoi dung"));
+  let diemthigiuaky = parseInt(prompt("nhap du lieu nguoi dung"));
+  let diemthicuoiky = parseInt(prompt("nhap du lieu nguoi dung"));
+    let diemtrungbinh = (diembaikiemtra + diemthigiuaky + diemthicuoiky )/3;
+  let xephang ;
+  if (diemtrungbinh >= 8.5) {
+      xephang = "gioi" ;
+  } else if (diemtrungbinh >= 7) {
+      xephang = "kha";
+  } else if (diemtrungbinh >= 5) {
+      xephang = "trung binh";
+  } else {
+      xephang = "yeu" ;
+  }
+  document.getElementById("result").textContent = diemtrungbinh + " " +xephang
+
+</script>
+</body>
+</html>

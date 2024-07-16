@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1e41848-73e9-470f-9bda-15415ac102b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bai2-ckieuanh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai4-ckieuanh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binh-phuong-hop-thoai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caulenh_switch-case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai tap/TH_sudungvonglap-b1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai tap/TH_sudungvonglapfor-b2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai tap/do_u_love_me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai tap/su-dung-vong-lap-while.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai2_su_dung_vong_lapwhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_table/bai_tap/may_tinh_don_gian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_table/bai_tap/su-kien-banphim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_chuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt/b4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt/luyentapvonglap2-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt/luyentapvonglap2-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt/luyentapvonglap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien_TH/b2ctdk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien_TH/bai3ctdk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien_TH/bai4ctdk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien_TH/bai5ctdk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien_TH/bai6ctdk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien_TH/bai7ctdk.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinh_chi_so_can_nang.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinh_chi_so_can_nang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.aaa.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.do_u_love_me.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.su-dung-vong-lap-while.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.su-kien-banphim.html.executor&quot;: &quot;Run&quot;,
@@ -116,7 +114,14 @@
       <workItem from="1720952611654" duration="2759000" />
       <workItem from="1720957184983" duration="381000" />
       <workItem from="1720957585461" duration="124000" />
-      <workItem from="1721013821608" duration="327000" />
+      <workItem from="1721013821608" duration="1551000" />
+      <workItem from="1721015403454" duration="2702000" />
+      <workItem from="1721018140216" duration="1446000" />
+      <workItem from="1721025300146" duration="6312000" />
+      <workItem from="1721032544529" duration="6747000" />
+      <workItem from="1721091507039" duration="997000" />
+      <workItem from="1721093819201" duration="105000" />
+      <workItem from="1721099241279" duration="58000" />
     </task>
     <servers />
   </component>
