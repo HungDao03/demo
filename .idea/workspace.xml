@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1e41848-73e9-470f-9bda-15415ac102b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demtong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ktrasonguyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapvonglap1-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/TH_mang_daonguoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sinhbangcuutruong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soamlelonnhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soduongchanlonnhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai tap/sudungvonglaplongnhau_TH.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taovathaotacvoimang_th" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bt/luyentapvonglap2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/luyentapvonglap2-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt/luyentapvonglap2-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/luyentapvonglap2-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt/luyentapvonglap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/luyentapvonglap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_html_form_table/bai_tap/Tao giao dien form dang ky ng dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html_form_table/bai_tap/Taogiaodienformdangkyngdung.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,24 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.aaa.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.do_u_love_me.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.su-dung-vong-lap-while.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.su-kien-banphim.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.ung_dung_chuot.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.TH_mang_taovathaotac.html.executor": "Run",
+    "JavaScript Debug.aaa.html.executor": "Run",
+    "JavaScript Debug.do_u_love_me.html.executor": "Run",
+    "JavaScript Debug.luyentapvonglap1-1.html.executor": "Run",
+    "JavaScript Debug.luyentapvonglap2.html.executor": "Run",
+    "JavaScript Debug.su-dung-vong-lap-while.html.executor": "Run",
+    "JavaScript Debug.su-kien-banphim.html.executor": "Run",
+    "JavaScript Debug.ung_dung_chuot.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -114,7 +127,19 @@
       <workItem from="1721091507039" duration="997000" />
       <workItem from="1721093819201" duration="105000" />
       <workItem from="1721099241279" duration="58000" />
-      <workItem from="1721099805192" duration="311000" />
+      <workItem from="1721099805192" duration="2538000" />
+      <workItem from="1721104476758" duration="962000" />
+      <workItem from="1721111607463" duration="82000" />
+      <workItem from="1721180372458" duration="3192000" />
+      <workItem from="1721198910620" duration="1521000" />
+      <workItem from="1721201856023" duration="110000" />
+      <workItem from="1721203236993" duration="4594000" />
+      <workItem from="1721208983345" duration="1407000" />
+      <workItem from="1721225159735" duration="2088000" />
+      <workItem from="1721266125241" duration="5290000" />
+      <workItem from="1721286281874" duration="5351000" />
+      <workItem from="1721291839634" duration="5022000" />
+      <workItem from="1721314507933" duration="3119000" />
     </task>
     <servers />
   </component>
