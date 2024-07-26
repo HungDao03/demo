@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+  let arr = [1,2,3,4,5];
+  function tbcong(arr){
+    let sum = 0;
+    let tbcong = 0;
+    for (let i = 0; i < arr.length; i++){
+      sum += arr[i];
+      tbcong = sum/arr.length;
+    }
+  return tbcong;
+  }
+  document.write(tbcong(arr));
+</script>
+</body>
+</html>
