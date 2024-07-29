@@ -5,19 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1e41848-73e9-470f-9bda-15415ac102b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demtong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ktrasonguyento.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luyentapvonglap1-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/TH_mang_daonguoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sinhbangcuutruong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soamlelonnhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soduongchanlonnhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_html_git_/bai tap/sudungvonglaplongnhau_TH.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taovathaotacvoimang_th" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH-xaydunglopdate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-tap-ham/bt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt/luyentapvonglap2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/luyentapvonglap2-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_html_form_table/bai_tap/Tao giao dien form dang ky ng dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html_form_table/bai_tap/Taogiaodienformdangkyngdung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TH_taobangcaro.html" beforeDir="false" afterPath="$PROJECT_DIR$/TH_taobangcaro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b1luyentaptaovasdham01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamchuyendoifeet-meters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamkiemtrasonguyen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ktrasonguyento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyentapvoicautrucif-else.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyentapvoicautrucif-else.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang/TH_mang_timgiatri.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang/TH_mang_timgiatri.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n.html" beforeDir="false" afterPath="$PROJECT_DIR$/n.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nam_nhuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/nam_nhuan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhan1tsovatratong.html" beforeDir="false" afterPath="$PROJECT_DIR$/nhan1tsovatratong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/on-tap-ham/b2.html" beforeDir="false" afterPath="$PROJECT_DIR$/on-tap-ham/b2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/on-tap-ham/b3-min.html" beforeDir="false" afterPath="$PROJECT_DIR$/on-tap-ham/b3-min.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ontapham.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taovagoiham.html" beforeDir="false" afterPath="$PROJECT_DIR$/taovagoiham.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinhtong.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinhtong.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,27 +53,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.TH_mang_taovathaotac.html.executor": "Run",
-    "JavaScript Debug.aaa.html.executor": "Run",
-    "JavaScript Debug.do_u_love_me.html.executor": "Run",
-    "JavaScript Debug.luyentapvonglap1-1.html.executor": "Run",
-    "JavaScript Debug.luyentapvonglap2.html.executor": "Run",
-    "JavaScript Debug.su-dung-vong-lap-while.html.executor": "Run",
-    "JavaScript Debug.su-kien-banphim.html.executor": "Run",
-    "JavaScript Debug.ung_dung_chuot.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.TH_mang_taovathaotac.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.TH_taobangcaro.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.aaa.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.b3-min.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.do_u_love_me.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.hamchuyendoifeet-meters.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.hamkiemtrasonguyen.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ktrasonguyento.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.luyentapvonglap1-1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.luyentapvonglap2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.n.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ontapham.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.su-dung-vong-lap-while.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.su-kien-banphim.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.tinhtong.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ung_dung_chuot.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daohu\Desktop\demo\on-tap-ham" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ktrasonguyento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo/ktrasonguyento.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ktrasonguyento.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -140,6 +169,24 @@
       <workItem from="1721286281874" duration="5351000" />
       <workItem from="1721291839634" duration="5022000" />
       <workItem from="1721314507933" duration="3119000" />
+      <workItem from="1721352050118" duration="5660000" />
+      <workItem from="1721376056265" duration="3212000" />
+      <workItem from="1721610685012" duration="3969000" />
+      <workItem from="1721631116918" duration="5259000" />
+      <workItem from="1721784360763" duration="2129000" />
+      <workItem from="1721804150926" duration="2150000" />
+      <workItem from="1721808951892" duration="4662000" />
+      <workItem from="1721829590162" duration="2038000" />
+      <workItem from="1721869472900" duration="4379000" />
+      <workItem from="1721889380193" duration="8548000" />
+      <workItem from="1721898227472" duration="3204000" />
+      <workItem from="1721916939079" duration="3622000" />
+      <workItem from="1721957108213" duration="4942000" />
+      <workItem from="1721975909892" duration="3018000" />
+      <workItem from="1721979920008" duration="807000" />
+      <workItem from="1722215056546" duration="790000" />
+      <workItem from="1722217939620" duration="1041000" />
+      <workItem from="1722219000033" duration="387000" />
     </task>
     <servers />
   </component>
