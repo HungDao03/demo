@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Studen {
+        id; name; age; height; weight;
+        constructor(id, name, age, height, weight) {
+            this.id = id;
+            this.name = name;
+            this.age = age;
+            this.height = height;
+            this.weight = weight;
+        }
+        tinhBMI(){
+            let bmi = this.weight / (this.height * this.height);
+            return bmi;
+        }
+    }
+    let Hau = new Studen(1,"hau",19,178,65);
+    let Hung = new Studen(2,"Hung",20,172,61);
+    let Loc = new Studen(3,"Loc",22,172,62);
+    console.log(Hau.tinhBMI());
+    console.log(Hung.tinhBMI());
+    console.log(Loc.tinhBMI());
+
+    let c06 = [Hung, Loc, Hau];
+    let sum = 0;
+    for (i = 0; i < c06.length; i++){
+        sum += c06[i].height
+    }
+    let trungbinh = sum / c06.length
+</script>
+</body>
+</html>

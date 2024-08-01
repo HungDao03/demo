@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Cars {
+        name;
+        color;
+        capacity;
+
+        constructor(name, color, capacity) {
+            this.name = name;
+            this.color = color;
+            this.capacity = capacity;
+        }
+    }
+
+    let a = new Cars("BM W", "Red", 4);
+    let b = new Cars("Audi", "Green", 8);
+    let c = new Cars("BMW", "Color", 6);
+    let d = new Cars("Merc", "Green", 4)
+    let arr = [a, b, c, d];
+
+    function sumCars(arr) {
+        let sum = 0;
+        for (let i = 0; i < arr.length; i++) {
+            sum += arr[i].capacity
+        }
+        return sum;
+    }
+    console.log(sumCars(arr));
+</script>
+</body>
+</html>

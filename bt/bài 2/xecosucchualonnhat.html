@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Cars {
+        name;
+        color;
+        capacity;
+
+        constructor(name, color, capacity) {
+            this.name = name;
+            this.color = color;
+            this.capacity = capacity;
+        }
+    }
+
+    let a = new Cars("BMW", "Red", 4);
+    let b = new Cars("Audi", "Green", 8);
+    let c = new Cars("BMW", "Color", 6);
+    let d = new Cars("Merc", "Green", 4)
+    let arr = [a, b, c, d];
+
+    function succhua(arr) {
+        let max = arr[0].capacity
+        for (let i = 0; i < arr.length; i++){
+            if (arr[i].capacity > max){
+                max = arr[i].capacity;
+            }
+            if (arr[i].capacity === max){
+                return arr[i];
+            }
+        }
+    }
+    console.log(succhua(arr));
+</script>
+</body>
+</html>

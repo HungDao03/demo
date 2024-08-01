@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function sochinhphuong(n) {
+        for (let i = 1; i <= n; i++) {
+            if ((i * i) === n){
+                return true;
+            }
+        }
+    }
+    console.log(sochinhphuong(9));
+// --------------------------------
+    function sumscp(arr){
+        for (let i = 0; i < arr.length; i++){
+            if (sumscp(arr[i])){
+                sumscp.push(arr[i]);
+            }
+        }
+        return sumscp;
+    }
+    console.log(sumscp(arr));
+
+</script>
+</body>
+</html>

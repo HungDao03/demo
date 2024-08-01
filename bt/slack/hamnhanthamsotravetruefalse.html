@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let number = +prompt("nhap so");
+    function songuyen(num) {
+        if (num < 2) {
+            return false;
+        } else {
+            for (let i = 2; i < arr.length; i++) {
+                if (num % 2 === 0) {
+                    return false;
+                }
+            }
+            return true;
+        }
+    }
+
+    let arr = [2,4,3,5,6,7,8,9];
+    function getPrimes(arr){
+        let newArr = [];
+        for (let i = 0; i < arr.length; i++){
+            if (songuyen(arr[i])){
+                newArr.push(arr[i]);
+            }
+        }
+        return newArr;
+    }
+    console.log(getPrimes(arr));
+    console.log(songuyen(number));
+</script>
+</body>
+</html>

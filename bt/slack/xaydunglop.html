@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Temperature {
+        doC;
+
+        constructor(doC) {
+            this.doC = doC;
+        }
+
+        chuyenF() {
+            let doF = this.doC * 1.8000 + 32.00;
+            return doF;
+        }
+        chuyenK() {
+            let doK = this.doC + 273.15;
+            return doK;
+        }
+    }
+    let a = new Temperature(25);
+    console.log(a.chuyenF());
+    console.log(a.chuyenK());
+</script>
+</body>
+</html>

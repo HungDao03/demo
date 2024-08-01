@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Cars {
+        name;
+        color;
+        capacity;
+
+        constructor(name, color, capacity) {
+            this.name = name;
+            this.color = color;
+            this.capacity = capacity;
+        }
+    }
+
+    let a = new Cars("BMW", "Red", 4);
+    let b = new Cars("Audi", "Green", 8);
+    let c = new Cars("BMW", "Color", 6);
+    let d = new Cars("Merc", "Green", 4)
+    let arr = [a, b, c, d];
+    function tangdan(arr,n){
+        for (let i = n; i >=2; i--) {
+            for (let j = 0; j < i-1; j++) {
+                if (arr[j].capacity > arr[j+1].capacity) {
+                    let temp = arr[j].capacity;
+                    arr[j].capacity = arr[j+1].capacity;
+                    arr[j+1].capacity = temp;
+                }
+            }
+        }
+    }
+    tangdan(arr,arr.length);
+    console.log(arr);
+</script>
+</body>
+</html>
