@@ -24,9 +24,9 @@
     let d = new Cars("Merc", "Green", 4)
     let arr = [a, b, c, d];
 
-    function succhua(arr) {
+    function succhualon(arr){
         let max = arr[0].capacity
-        for (let i = 0; i < arr.length; i++){
+        for (let i = 1; i < arr.length; i++){
             if (arr[i].capacity > max){
                 max = arr[i].capacity;
             }
@@ -35,7 +35,7 @@
             }
         }
     }
-    console.log(succhua(arr));
+    console.log(succhualon(arr));
 </script>
 </body>
 </html>

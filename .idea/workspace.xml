@@ -5,40 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1e41848-73e9-470f-9bda-15415ac102b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/bubbleSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/countOddSmallerThan10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/findMaxPositiveNumbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/inputArrayNumbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/interchangeSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/listOutNegativeNumbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/outputArrayNumbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 1/sumEvenPositiveNumbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/demxexanhla.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/inputArrayCars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/listOutBMWCars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/outputArrayCars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/sapxepgiamdan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/sapxeptangdan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/tinhtongsucchuacuaxe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 2/xecosucchualonnhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 3/cau 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 3/cau 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 3/cau1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 3/cau3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/bài 3/cau4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/slack/chuvi-dientichhcn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/slack/chuvi-dientichhinhtron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/slack/hamnhanthamsotravetruefalse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/slack/khaibaolopstuden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/slack/sap_xep_noi_bot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt/slack/xaydunglop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ha`m/luyentaptaovasdham01/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ha`m/luyentaptaovasdham01/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ha`m/luyentaptaovasdham02/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ha`m/luyentaptaovasdham02/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ontap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinhhieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt/baichuoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dethuchanhmodul1/cau 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dethuchanhmodul1/cau2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dethuchanhmodul1/cau3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dethuchanhmodul1/cau4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt/bai on tap/bài 2/demxexanhla.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/bai on tap/bài 2/demxexanhla.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt/bai on tap/bài 2/sapxepgiamdan.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/bai on tap/bài 2/sapxepgiamdan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt/bai on tap/bài 2/xecosucchualonnhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt/bai on tap/bài 2/xecosucchualonnhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ha`m/hamkiemtrasonguyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/ha`m/hamkiemtrasonguyen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +188,12 @@
       <workItem from="1722419154453" duration="1469000" />
       <workItem from="1722433863102" duration="2078000" />
       <workItem from="1722475240480" duration="3195000" />
+      <workItem from="1722479171986" duration="3948000" />
+      <workItem from="1722494356423" duration="1085000" />
+      <workItem from="1722495466290" duration="2865000" />
+      <workItem from="1722525302357" duration="1063000" />
+      <workItem from="1722563915605" duration="7265000" />
+      <workItem from="1722571332877" duration="18000" />
     </task>
     <servers />
   </component>
@@ -224,7 +206,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/bt/bài 3/cau 5.html</url>
           <line>23</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

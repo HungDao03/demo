@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arr = []
+    function nhapMangSoNguyen(a) {
+        for (a = 0; a < 20; a++) {
+            n = prompt('nhap phan tu n ');
+            arr.push(n);
+        }
+        return arr;
+    }
+    console.log(nhapMangSoNguyen(arr));
+    function tinhhieu(num){
+        let sochan = 0;
+        let sole = 0;
+        for (let i = 0; i < num.length; i++){
+            if (num % 2 === 0){
+                sochan += num[i];
+            }
+        }
+        for (let i = 0; i < num.length; i++){
+            if (num & 2 !== 0){
+                sole += num[i];
+            }
+        }
+        return sochan - sole;
+    }
+    console.log(tinhhieu(arr))
+</script>
+</body>
+</html>

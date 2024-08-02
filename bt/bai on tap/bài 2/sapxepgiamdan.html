@@ -19,8 +19,8 @@
     let c = new Cars("BMW", "Blue", 6);
     let d = new Cars("Merc", "Green", 4);
     let arr = [a, b, c, d];
-    function tangdan(arr,n){
-        for (let i = n; i => 2; i--){
+    function giamdan(arr,n){
+        for (let i = n; i => j; i--){
             for (let j = 0; j < i-1; j++){
                 if (arr[j].capacity < arr[j+1].capacity){
                     let temp = arr[j].capacity;
@@ -29,9 +29,9 @@
                 }
             }
         }
-    return arr[i];
+        return arr[i];
     }
-    tangdan(arr,arr.length);
+    giamdan(arr,arr.length);
     console.log(arr);
 </script>
 </body>
